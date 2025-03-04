@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\6-CustomerInfo\bin\Debug\net8.0\6-CustomerInfo.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\6-CustomerInfo\bin\Debug\net8.0\6-CustomerInfo.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\6-CustomerInfo\bin\Debug\net8.0\6-CustomerInfo.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\6-CustomerInfo\bin\Debug\net8.0\6-CustomerInfo.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\6-CustomerInfo\bin\Debug\net8.0\6-CustomerInfo.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\6-CustomerInfo\obj\Debug\net8.0\6-CustomerInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\6-CustomerInfo\obj\Debug\net8.0\6-CustomerInfo.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\6-CustomerInfo\obj\Debug\net8.0\6-CustomerInfo.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\6-CustomerInfo\obj\Debug\net8.0\6-CustomerInfo.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\6-CustomerInfo\obj\Debug\net8.0\6-CustomerInfo.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\6-CustomerInfo\obj\Debug\net8.0\refint\6-CustomerInfo.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\6-CustomerInfo\obj\Debug\net8.0\6-CustomerInfo.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\6-CustomerInfo\obj\Debug\net8.0\6-CustomerInfo.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\6-CustomerInfo\obj\Debug\net8.0\ref\6-CustomerInfo.dll
