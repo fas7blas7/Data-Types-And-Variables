@@ -57,14 +57,24 @@ string country = Console.ReadLine();
 string town = Console.ReadLine();
 Console.WriteLine($"{firstName} {lastName} from {country} - {town}!");
 ```
+### 8️⃣ Convert Days to Minutes
+```csharp
+int days = int.Parse(Console.ReadLine());
+int resultInMinutes = days * 24 * 60;
+Console.WriteLine($"Minutes = {resultInMinutes}");
+```
+### 9️⃣ Calculate Speed
+```csharp
+double distance = double.Parse(Console.ReadLine());
+double time = double.Parse(Console.ReadLine());
+double speed = distance / time;
+Console.WriteLine($"{speed:f2}");
+```
 
 ## 🚀 More Tasks Coming Soon!
 Stay tuned for more C# tasks and exercises. Feel free to contribute or suggest improvements!
 
 ### 📬 Connect with Me
-- 🔗 [GitHub Profile](https://github.com/yourusername)
+- 🔗 [GitHub Profile](https://github.com/fas7blas7)
 - ✉️ Reach out for collaboration!
-
----
-📌 *Happy Coding! 🎯*
 
