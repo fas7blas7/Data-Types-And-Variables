@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\1-DATA-TYPES-AND-VARIABLES\bin\Debug\net8.0\1-DATA-TYPES-AND-VARIABLES.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\1-DATA-TYPES-AND-VARIABLES\bin\Debug\net8.0\1-DATA-TYPES-AND-VARIABLES.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\1-DATA-TYPES-AND-VARIABLES\bin\Debug\net8.0\1-DATA-TYPES-AND-VARIABLES.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\1-DATA-TYPES-AND-VARIABLES\bin\Debug\net8.0\1-DATA-TYPES-AND-VARIABLES.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\1-DATA-TYPES-AND-VARIABLES\bin\Debug\net8.0\1-DATA-TYPES-AND-VARIABLES.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\1-DATA-TYPES-AND-VARIABLES\obj\Debug\net8.0\1-DATA-TYPES-AND-VARIABLES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\1-DATA-TYPES-AND-VARIABLES\obj\Debug\net8.0\1-DATA-TYPES-AND-VARIABLES.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\1-DATA-TYPES-AND-VARIABLES\obj\Debug\net8.0\1-DATA-TYPES-AND-VARIABLES.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\1-DATA-TYPES-AND-VARIABLES\obj\Debug\net8.0\1-DATA-TYPES-AND-VARIABLES.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\1-DATA-TYPES-AND-VARIABLES\obj\Debug\net8.0\1-DATA-TYPES-AND-VARIABLES.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\1-DATA-TYPES-AND-VARIABLES\obj\Debug\net8.0\refint\1-DATA-TYPES-AND-VARIABLES.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\1-DATA-TYPES-AND-VARIABLES\obj\Debug\net8.0\1-DATA-TYPES-AND-VARIABLES.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\1-DATA-TYPES-AND-VARIABLES\obj\Debug\net8.0\1-DATA-TYPES-AND-VARIABLES.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\1-DATA-TYPES-AND-VARIABLES\obj\Debug\net8.0\ref\1-DATA-TYPES-AND-VARIABLES.dll
