@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\9-CalculateSpeed\bin\Debug\net8.0\9-CalculateSpeed.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\9-CalculateSpeed\bin\Debug\net8.0\9-CalculateSpeed.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\9-CalculateSpeed\bin\Debug\net8.0\9-CalculateSpeed.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\9-CalculateSpeed\bin\Debug\net8.0\9-CalculateSpeed.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\9-CalculateSpeed\bin\Debug\net8.0\9-CalculateSpeed.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\9-CalculateSpeed\obj\Debug\net8.0\9-CalculateSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\9-CalculateSpeed\obj\Debug\net8.0\9-CalculateSpeed.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\9-CalculateSpeed\obj\Debug\net8.0\9-CalculateSpeed.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\9-CalculateSpeed\obj\Debug\net8.0\9-CalculateSpeed.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\9-CalculateSpeed\obj\Debug\net8.0\9-CalculateSpeed.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\9-CalculateSpeed\obj\Debug\net8.0\refint\9-CalculateSpeed.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\9-CalculateSpeed\obj\Debug\net8.0\9-CalculateSpeed.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\9-CalculateSpeed\obj\Debug\net8.0\9-CalculateSpeed.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\9-CalculateSpeed\obj\Debug\net8.0\ref\9-CalculateSpeed.dll
