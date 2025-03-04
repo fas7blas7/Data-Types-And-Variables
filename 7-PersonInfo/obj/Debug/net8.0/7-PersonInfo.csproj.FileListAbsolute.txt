@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\7-PersonInfo\bin\Debug\net8.0\7-PersonInfo.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\7-PersonInfo\bin\Debug\net8.0\7-PersonInfo.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\7-PersonInfo\bin\Debug\net8.0\7-PersonInfo.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\7-PersonInfo\bin\Debug\net8.0\7-PersonInfo.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\7-PersonInfo\bin\Debug\net8.0\7-PersonInfo.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\7-PersonInfo\obj\Debug\net8.0\7-PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\7-PersonInfo\obj\Debug\net8.0\7-PersonInfo.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\7-PersonInfo\obj\Debug\net8.0\7-PersonInfo.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\7-PersonInfo\obj\Debug\net8.0\7-PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\7-PersonInfo\obj\Debug\net8.0\7-PersonInfo.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\7-PersonInfo\obj\Debug\net8.0\refint\7-PersonInfo.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\7-PersonInfo\obj\Debug\net8.0\7-PersonInfo.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\7-PersonInfo\obj\Debug\net8.0\7-PersonInfo.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\7-PersonInfo\obj\Debug\net8.0\ref\7-PersonInfo.dll
