@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\8-TownInfo\bin\Debug\net8.0\8-TownInfo.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\8-TownInfo\bin\Debug\net8.0\8-TownInfo.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\8-TownInfo\bin\Debug\net8.0\8-TownInfo.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\8-TownInfo\bin\Debug\net8.0\8-TownInfo.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\8-TownInfo\bin\Debug\net8.0\8-TownInfo.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\8-TownInfo\obj\Debug\net8.0\8-TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\8-TownInfo\obj\Debug\net8.0\8-TownInfo.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\8-TownInfo\obj\Debug\net8.0\8-TownInfo.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\8-TownInfo\obj\Debug\net8.0\8-TownInfo.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\8-TownInfo\obj\Debug\net8.0\8-TownInfo.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\8-TownInfo\obj\Debug\net8.0\refint\8-TownInfo.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\8-TownInfo\obj\Debug\net8.0\8-TownInfo.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\8-TownInfo\obj\Debug\net8.0\8-TownInfo.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\3-DATA-TYPES-AND-VARIABLES\8-TownInfo\obj\Debug\net8.0\ref\8-TownInfo.dll
