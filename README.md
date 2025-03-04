@@ -28,12 +28,41 @@ Console.WriteLine(myName);
 int result = 5 + 3;
 Console.WriteLine(result);
 ```
+### 4️⃣ Mathematical Expressions
+```csharp
+int a = 5 + 3 * 2;
+int b = 4 * (2 + 3);
+int c = (2 + 5) * (8 - 2) / 7;
+Console.WriteLine(a);
+Console.WriteLine(b);
+Console.WriteLine(c);
+```
+### 5️⃣ Read and Print Name
+```csharp
+string name = Console.ReadLine();
+Console.WriteLine("Hello " + name);
+```
+### 6️⃣ Customer Information
+```csharp
+string firstName = Console.ReadLine();
+string lastName = Console.ReadLine();
+string email = Console.ReadLine();
+Console.WriteLine($"Customer: {firstName} {lastName} ({email})");
+```
+### 7️⃣ User Location Information
+```csharp
+string firstName = Console.ReadLine();
+string lastName = Console.ReadLine();
+string country = Console.ReadLine();
+string town = Console.ReadLine();
+Console.WriteLine($"{firstName} {lastName} from {country} - {town}!");
+```
 
 ## 🚀 More Tasks Coming Soon!
 Stay tuned for more C# tasks and exercises. Feel free to contribute or suggest improvements!
 
 ### 📬 Connect with Me
-- 🔗 [GitHub Profile](https://github.com/fas7blas7)
+- 🔗 [GitHub Profile](https://github.com/yourusername)
 - ✉️ Reach out for collaboration!
 
 ---
